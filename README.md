@@ -1,15 +1,12 @@
-🕵️‍♂️ Document-Based Search Engine
+# Document-Based Search Engine
 
-# Overview
+## Overview
 This project implements a simple search engine that indexes and retrieves information from a document or a set of documents. It allows users to input queries and returns the most relevant sections based on semantic similarity or keyword matching.
 
-# Preparing the environment
-
-## 🚀 Installation
+## Installation
 
 ```bash
 pip install requests pandas scikit-learn jupyter
 ```
 
-assdfds
 
