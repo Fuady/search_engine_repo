@@ -6,5 +6,8 @@ This project implements a simple search engine that indexes and retrieves inform
 # Preparing the environment
 First, install these following libraries:
 
-> pip install requests pandas scikit-learn jupyter
+## 🚀 Installation
+
+```bash
+pip install requests pandas scikit-learn jupyter
 
