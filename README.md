@@ -34,7 +34,7 @@ for course in documents_raw:
         documents.append(doc)
 ```
 
-Creating the dataframe:
+Create the dataframe:
 
 ```python
 import pandas as pd
